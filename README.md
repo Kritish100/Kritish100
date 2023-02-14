@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **kritish.b@homeloanexperts.com.au**
 
-- ⚡ Fun fact **I love riding motorbikes**
+- ⚡ Fun fact **I love motorbikes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
