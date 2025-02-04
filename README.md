@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kritish</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
 
-- 🔭 I’m currently working on [HLE Pulse](https://pulse.homeloanexperts.com.au/)
+- 🔭 I’m currently working on exploring new horizons
 
-- 📫 How to reach me **kritish.b@homeloanexperts.com.au**
+- 📫 How to reach me **rishi58rishi@gmail.com**
 
 - ⚡ Fun fact **I love motorbikes**
 
